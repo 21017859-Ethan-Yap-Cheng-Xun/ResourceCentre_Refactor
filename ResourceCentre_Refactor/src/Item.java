@@ -33,7 +33,7 @@ public class Item {
 		}
 		return avail;
 	}
-	
+
 	public String getAssetTag() {
 		return assetTag;
 	}
